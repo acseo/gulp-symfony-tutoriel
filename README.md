@@ -435,6 +435,9 @@ Nous disposons d'un certain nombre de tâches Gulp qui nous permettent d'accéle
 Vous pouvez donc lancer les commandes suivantes :
 
 ```bash
+# Compiler les fichiers sass, js et fonts
+gulp sass js font
+
 # Lancer la commande Symfony pour installer les assets
 gulp installAssets 
 
