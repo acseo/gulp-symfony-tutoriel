@@ -448,6 +448,9 @@ gulp watch
 gulp verify
 ```
 
-Le code 
+### Pour tester
+
+Vous retrouverez un projet Symfony en exemple à l'adresse : [https://github.com/acseo/gulp-symfony-tutoriel]()
+
 ## Remerciements
 Cet article est inspiré et traduit d'un article de Florian Eckerstorfer, accessible en anglais à l'adresse : [https://florian.ec/articles/buliding-symfony2-with-gulp/]()
